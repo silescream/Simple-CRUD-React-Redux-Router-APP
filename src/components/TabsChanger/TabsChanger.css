@@ -1,0 +1,19 @@
+.nav-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.nav-tabs button {
+  padding: 5px 10px;
+}
+
+.nav-content {
+  display: flex;
+  justify-content: center;
+}
+
+.button-tab button {
+  background-color: teal;
+}
